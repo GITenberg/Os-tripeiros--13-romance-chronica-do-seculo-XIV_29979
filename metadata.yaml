@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34288'
     url: http://www.gutenberg.org/2009/agents/34288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29979#Os-tripeiros--13-romance-chronica-do-seculo-XIV
 gutenberg_issued: '2009-09-13'
 gutenberg_type: Text
 identifiers:
